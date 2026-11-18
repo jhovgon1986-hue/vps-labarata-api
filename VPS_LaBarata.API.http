@@ -1,0 +1,6 @@
+@VPS_LaBarata.API_HostAddress = http://localhost:5251
+
+GET {{VPS_LaBarata.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
