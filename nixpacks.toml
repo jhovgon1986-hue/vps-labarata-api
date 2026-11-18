@@ -1,4 +1,0 @@
-﻿providers = ["csharp"]
-
-[variables]
-NIXPACKS_CSHARP_SDK_VERSION = "10"
