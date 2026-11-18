@@ -1,2 +1,4 @@
-﻿[providers.dotnet]
-version = "10.0"
+﻿providers = ["dotnet"]
+
+[variables]
+NIXPACKS_DOTNET_VERSION = "10"
